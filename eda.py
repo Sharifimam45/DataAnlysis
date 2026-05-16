@@ -1,3 +1,2 @@
-import sklearn.datasets
-import sklearn.model_selection
 
+import pandas as pd 
